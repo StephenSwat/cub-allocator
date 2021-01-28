@@ -1,1 +1,6 @@
 add_subdirectory(minimal)
+add_subdirectory(noalloc)
+add_subdirectory(grind)
+add_subdirectory(binsize)
+add_subdirectory(freebin)
+add_subdirectory(toobig)
